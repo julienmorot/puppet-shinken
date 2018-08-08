@@ -1,0 +1,18 @@
+{
+  "name": "jmorot-shinken",
+  "version": "0.1.0",
+  "author": "jmorot",
+  "summary": "Simple module to deploy a shinken environnment.",
+  "license": "GPLv3",
+  "source": "https://gitlab.com/julienmorot/puppet-shinken",
+  "project_page": "https://gitlab.com/julienmorot/puppet-shinken",
+  "issues_url": "https://gitlab.com/julienmorot/puppet-shinken",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
